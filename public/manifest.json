@@ -23,7 +23,7 @@
     {
       "run_at": "document_start",
       "matches": ["*://*.vlr.gg/*"],
-      "resources": ["bettervlr.js"]
+      "resources": ["bettervlr.js","trophies.js"]
     }
   ]
 }
